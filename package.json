@@ -1,0 +1,29 @@
+{
+    "name": "Algoritmo-Hackeo-Etico",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/DIEGOGARCIA601050/Algoritmo-Hackeo-Etico.git"
+    },
+    "keywords": [
+      "typescript",
+      "javascript",
+      "Hacking"
+    ],
+    "author": "Diego Garcia Roldan",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/DIEGOGARCIA601050/Algoritmo-Hackeo-Etico/issues"
+    },
+    "homepage": "https://github.com/DIEGOGARCIA601050/Algoritmo-Hackeo-Etico#readme",
+    "dependencies": {
+      "tsc": "^2.0.4"
+    },
+    "devDependencies": {
+      "typescript": "^5.4.5"
+    }
+  }
